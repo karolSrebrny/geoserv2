@@ -1,0 +1,12 @@
+{
+  "name": "kabanets/geoserv2",
+  "autoload": {
+    "psr-4": {
+      "Hillel\\Geo\\": "./src"
+    }
+  },
+  "require": {
+    "kabanets/geointerface": "master-dev",
+    "geoip2/geoip2": "~2.0"
+  }
+}
